@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Katiyar</h1>
 <h3 align="center">Technophile with a hint of sarcasm</h3>
+<p align="center">
+  <img src="https://i.giphy.com/media/l0HlNwI5ULEqhqlBS/giphy.webp"/>
+</p>
 
 <h2 align="center" color="green"> <a href="https://parthkatiyar.vercel.app">parthkatiyar.me</a> </h2>
 
