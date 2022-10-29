@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/l0HlNwI5ULEqhqlBS/giphy.webp"/>
 </p>
 
-<h2 align="center" color="green"> <a href="https://parthkatiyar.vercel.app">parthkatiyar.me</a> </h2>
+<h2 align="center" color="green"> <a href="https://parthkatiyar.in">parthkatiyar.in</a> </h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
