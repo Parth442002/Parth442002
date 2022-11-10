@@ -64,5 +64,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth442002&show_icons=true&theme=radical" alt="parth442002" /></p>
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=parth442002&theme=material-palenight&date_format=j%20M%5B%20Y%5D&ring=DD0000" alt="parth442002" /></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Parth442002/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Parth442002"/></p>
 
 [![Parth's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parth442002&custom_title=Parth's%20Activity%20Graph&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
